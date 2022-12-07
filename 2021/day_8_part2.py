@@ -1,6 +1,6 @@
 import math
 
-input_file = open("day8input.txt", 'r')
+input_file = open("data/day8input.txt", 'r')
 input_raw = input_file.read()
 input_file.close()
 raw_list = input_raw.split('\n')
